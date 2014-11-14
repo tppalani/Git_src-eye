@@ -1,6 +1,7 @@
 #####changes git_eye ########
 vinay
 Git-Eye GUI
+eye is slow
 
 #####changes Src Tree #######
 ##palani##
