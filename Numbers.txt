@@ -1,5 +1,6 @@
 #####changes git_eye ########
 vinay
+Git-Eye GUI
 
 #####changes Src Tree #######
 
